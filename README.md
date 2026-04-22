@@ -6,6 +6,8 @@ I'm Vinicius Taira, a Front-End Developer, currently learning and creating proje
 <br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
+<br>
 
 ### Connect with me:
 <a href="https://www.instagram.com/vinii.htt/" target="_blank">
